@@ -1,0 +1,25 @@
+body {
+  font-style: roboto;
+}
+
+a {
+  color: white;
+}
+
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  background-color: #1f2937;
+  color: white;
+}
+
+.nav-links {
+  display: flex;
+  list-style-type: none;
+  align-items: center;
+}
+
+.nav-item {
+  display: flex;
+  justify-content: space-between;
+}
